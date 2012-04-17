@@ -1,4 +1,4 @@
-#This is just another ruby on rails project.
+#This is just another ruby on rails project..
 
 ##Nothing much to see here
 
